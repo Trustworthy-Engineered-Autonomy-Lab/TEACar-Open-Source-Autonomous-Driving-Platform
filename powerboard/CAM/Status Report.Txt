@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TEA Lab PWR board.PrjPcb]
+   Generated File[PowerBoardPCB.TXT]
+   Generated File[PowerBoardPCB.LDP]
+   Generated File[PowerBoardPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:58:00 AM On 12/18/2025

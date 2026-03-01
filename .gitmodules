@@ -1,0 +1,3 @@
+[submodule "software"]
+	path = software
+	url = git@github.com:Trustworthy-Engineered-Autonomy-Lab/TEAcar_ros2.git
